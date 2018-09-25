@@ -1,0 +1,21 @@
+npm-debug.log.*
+*.sublime-*	*.sublime-*
+scripts/*.sql	scripts/*.sql
+ # *** Boilerplate auto-update files v3.0.107
+/.dockerignore
+/.editorconfig
+/Dockerfile
+/Makefile
+/.npmrc
+/docker/supervisor.conf
+/newrelic.js
+node_modules
+
+# *** Boilerplate auto-update files v3.0.107
+/.dockerignore
+/.editorconfig
+/Dockerfile
+/Makefile
+/.npmrc
+/docker/supervisor.conf
+/newrelic.js
